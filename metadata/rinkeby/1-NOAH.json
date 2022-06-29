@@ -1,0 +1,11 @@
+{
+    "name": "NOAH",
+    "description": "NOAH in the Grade 8 Gifted Program in St. Mark!",
+    "image": "https://ipfs.io/ipfs/QmcGkNThu941dpVf6vd9z2UDywNNZXqSSMNpen89VG4Cy9?filename=noah.png",
+    "attributes": [
+        {
+            "trait_type": "noahtest",
+            "value": 100
+        }
+    ]
+}
